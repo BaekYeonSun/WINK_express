@@ -12,5 +12,18 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaekYeonSun/express-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaekYeonSun/express-example/issues"
+  },
+  "homepage": "https://github.com/BaekYeonSun/express-example#readme",
+  "description": ""
 }
