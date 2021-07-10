@@ -11,5 +11,5 @@
 <img width="500" alt="5주차 과제 실행 화면" src = "https://user-images.githubusercontent.com/55418359/125170809-c692b680-e1eb-11eb-94f0-e56510abdca5.PNG">
 
 1. MongoDB 연결하기(Mongoose 사용, router 분리)
-2. 게시판 post 구현 및 postman & Compass 를 통한 확인
+2. 게시판 post 구현 및 Postman & Compass 를 통한 확인
 ------------
