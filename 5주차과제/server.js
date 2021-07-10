@@ -21,7 +21,7 @@ app.set('port', process.env.PORT || 9000);
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-const User = require('./user');
-const router = require('./router')(app, User);
+const Board = require('./Board');
+const router = require('./router')(app, Board);
 
 app.listen(app.get('port'), () => console.log(`listening on port ${app.get('port')}`));
