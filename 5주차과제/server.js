@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require("body-parser");
-const dbAddress = "mongodb+srv://yeonsun:baekyeonsun@cluster0.f5txt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const dbAddress = "mongodb+srv://<username>:<password>@cluster0.f5txt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 require("dotenv").config();
 
